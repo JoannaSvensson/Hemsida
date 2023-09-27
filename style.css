@@ -4,11 +4,12 @@
 }
 
 header {
-    background-color: grey;
+    background-color: white;
     text-align: center;
     padding: 0px;
 }
 
 h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
 }
