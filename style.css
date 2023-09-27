@@ -42,3 +42,8 @@ nav a:hover {
     border: 2px solid #000;
     border-color: bisque;
 }
+
+img {
+    width: 500px;
+    height: 400px;
+}
