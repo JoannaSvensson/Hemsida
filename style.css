@@ -40,4 +40,5 @@ nav a:hover {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid #000;
+    border-color: bisque;
 }
