@@ -39,4 +39,5 @@ nav a:hover {
 .Om.oss {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #000;
 }
