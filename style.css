@@ -58,3 +58,9 @@ ul {
     display: flex;
     align-items: center;
 }
+
+footer {
+    background-color: rgb(244, 224, 189);
+    text-align: center;
+    padding: 1px;
+}
