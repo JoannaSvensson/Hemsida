@@ -51,3 +51,10 @@ img {
 ul {
     list-style-type: none;
 }
+
+.Kontakt {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
