@@ -13,3 +13,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 70px;
 }
+
+nav {
+    background-color: rgb(244, 224, 189);
+    text-align: center;
+    padding: 10px;
+}
