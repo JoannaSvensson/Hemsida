@@ -51,6 +51,7 @@ nav a:hover {
 .hem {
     font-family: Arial, Helvetica, sans-serif;
     text-align: right;
+    max-width: 800px;
 
 }
 
