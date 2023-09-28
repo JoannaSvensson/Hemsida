@@ -54,7 +54,8 @@ nav a:hover {
 
 }
 
-.hem p {
+.hem-content {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: right;
 }
 
