@@ -49,10 +49,13 @@ nav a:hover {
 }
 
 .hem {
-    text-align: right;
     font-family: Arial, Helvetica, sans-serif;
     text-align: right;
 
+}
+
+.hem p {
+    text-align: right;
 }
 
 
