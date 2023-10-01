@@ -32,11 +32,12 @@ nav a:hover {
 }
 
 .section.om-oss {
-    background-color: white;
+    background-color: blanchedalmond;
     padding: 10;
 }
 
 .Om.oss {
+    background-color: rgb(131, 120, 108);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid #000;
@@ -98,3 +99,6 @@ footer p {
     font-size: 24px;
 }
 
+body {
+    background-color: white;
+}
