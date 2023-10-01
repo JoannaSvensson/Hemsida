@@ -89,6 +89,8 @@ footer p {
 }
 
 .splide .splide__slide img {
+    width: 800px;
+    height: auto;
     
 }
 
