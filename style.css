@@ -51,8 +51,6 @@ nav a:hover {
 .hem {
     font-family: Arial, Helvetica, sans-serif;
     text-align: right;
-    max-width: 400px;
-
 }
 
 .hem-content {
@@ -89,3 +87,12 @@ footer p {
     font-size: 15px;
     font-weight: bold;
 }
+
+.splide .splide__slide img {
+    
+}
+
+.splide__arrow {
+    font-size: 24px;
+}
+
