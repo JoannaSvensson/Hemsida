@@ -95,6 +95,7 @@ footer p {
 .splide .splide__slide img {
     width: 800px;
     height: auto;
+    padding: 5px;
     
 }
 
