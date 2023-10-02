@@ -19,6 +19,7 @@ nav {
     background-color: rgb(131, 120, 108);
     text-align: center;
     padding: 10px;
+    border-radius: 10px;
 }
 
 nav a {
