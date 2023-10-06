@@ -52,6 +52,9 @@ nav a:hover {
     padding: 30px;
     border-radius: 10px;
     color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .hem {
