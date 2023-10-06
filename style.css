@@ -48,8 +48,9 @@ nav a:hover {
 }
 
 .custom-hem {
-    background-color: white;
-    padding: 0px;
+    background-color: rgb(112, 106, 106);
+    padding: 30px;
+    border-radius: 10px;
 }
 
 .hem {
