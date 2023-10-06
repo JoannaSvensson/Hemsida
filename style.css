@@ -49,12 +49,18 @@ nav a:hover {
 
 .custom-hem {
     background-color: rgb(112, 106, 106);
-    padding: 30px;
+    padding: 0px;
     border-radius: 10px;
     color: white;
     display: flex;
     flex-direction: row;
     align-items: center;
+    
+}
+
+.custom-hem img {
+width: 50%;
+height: auto;
 }
 
 .hem {
