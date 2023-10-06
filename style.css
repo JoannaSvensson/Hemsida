@@ -109,7 +109,7 @@ footer p {
 .splide .splide__slide img {
     width: 800px;
     height: auto;
-    padding: 5px;
+    padding: 0px;
     border: 5px solid rgb(81, 69, 69);
     color: rgb(81, 69, 69);
     border-radius: 10px;
