@@ -98,6 +98,8 @@ footer p {
     width: 800px;
     height: auto;
     padding: 5px;
+    border: 5px;
+    color: rgb(81, 69, 69);
     
 }
 
