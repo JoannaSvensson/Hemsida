@@ -113,6 +113,7 @@ footer p {
     border: 5px solid rgb(81, 69, 69);
     color: rgb(81, 69, 69);
     border-radius: 10px;
+    align-content: center;
 }
 
 .splide__arrow {
