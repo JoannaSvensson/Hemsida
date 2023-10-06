@@ -45,7 +45,7 @@ nav a:hover {
 
 .custom-hem {
     background-color: white;
-    padding: 0px;
+    padding: 40px;
     border-radius: 10px;
     color: black;
     display: flex;
@@ -55,7 +55,7 @@ nav a:hover {
 }
 
 .custom-hem img {
-width: 50%;
+width: 40%;
 height: auto;
 }
 
