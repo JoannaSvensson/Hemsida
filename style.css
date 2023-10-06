@@ -16,7 +16,7 @@ h1 {
 }
 
 nav {
-    background-color: rgb(131, 120, 108);
+    background-color: rgb(95, 86, 76);
     text-align: center;
     padding: 10px;
     border-radius: 10px;
@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    color: rgb(98, 40, 17);
+    color: rgb(52, 45, 37);
 }
 
 
@@ -38,7 +38,7 @@ nav a:hover {
     background-color: rgb(131, 120, 108);
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: medium;
     border-radius: 10px;
 }
